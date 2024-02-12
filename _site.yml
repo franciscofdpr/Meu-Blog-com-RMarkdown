@@ -1,0 +1,22 @@
+name: "Site"
+title: "My Website"
+description: |
+  My Website
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Inicio"
+      href: index.html
+    - text: "Sobre Mim"
+      href: about.html
+    - text: "Blog"
+      href: blog.html
+    - text: "CV"
+      href: curriculo.pdf
+    - icon: fa fa-twitter
+      href: https://twitter.com/fd19884?s=03
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/francisco-de-paula-7978011b8/
+    - icon: fa fa-instagram
+      href: https://instagram.com/franfdpr/
+output: distill::distill_article

@@ -1,0 +1,6 @@
+---
+title: "blog"
+listing: posts
+---
+
+

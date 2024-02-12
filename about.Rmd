@@ -1,0 +1,29 @@
+---
+title: "Francisco de Paula"
+description: |
+  Alguns detalhes adicionais sobre mim
+---
+![](Francisco.png){width=25%} 
+
+## Pessoal
+
+Mineiro, natural de Belo Horizonte, analista de dados, nas horas vagas sou adepto do montanhismo, trilhar pelas montanhas de minas não tem preço! Amante do Espinhaço e do Serrado fazem do Parque Nacional da Serra do Cipó e a Lapinha da Serra os meus destinos favoritos! 
+
+
+## Profissional
+
+Sou um aluno e profissional entusiasmado  com experiência em colaboração na análise de dados. Minhas experiências de trabalho incluem administração de banco de dados, importação, organização, manipulação e exportação de dados através do uso das ferramentas MySQL, SQL Server, Power BI, Excel e R. Modelagem de banco de dados e métodos facilitadores e padronizadores de coleta de dados em campo de trabalho.
+
+
+## Recomendo
+
+[University of Virginia](https://virginia.edu/){target="_blank"} Publicam interessantes artigos sobre gerenciamento de dados de pesquisa, sobre como coletar, organizar, documentar, armazenar, compartilhar e preservar seus dados de pesquisa durante todo o projeto e após sua conclusão.
+
+[Google Cloud Platform](https://cloud.google.com/go/community?hl=pt-br/){target="_blank"} Aprenda com desenvolvedores a aproveitar ao maximo as tecnologias do Google Cloud Platform
+
+[W3Schools](https://www.w3schools.com//){target="_blank"} Site otimizado para aprendizagem, teste e treinamento. Os exemplos podem ser simplificados para melhorar a leitura e o entendimento básico. Tutoriais, referências
+
+## Contatos
+
+Quer conversar? Vá em frente, fale! Sinta-se à vontade para entrar em contato comigo no [email](mailtofranfdpr@gmail.com){target="_blank"}, [Instagram](https://instagram.com/franfdpr/){target="_blank"}, ou [LinkedIn](https://www.linkedin.com/in/francisco-de-paula-7978011b8/){target="_blank"}. Eu espero ouvir de você!
+

@@ -1,0 +1,33 @@
+---
+title: "Francisco de Paula"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+image: "Francisco.png"
+links:
+  - label: '<i class="fab fa-instagram"></i> Instagram'
+    url: "https://instagram.com/franfdpr/"
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: "https://twitter.com/fd19884?s=03"
+  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
+    url: "https://www.linkedin.com/in/francisco-de-paula-7978011b8/"
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:franfdpr@gmail.com"
+base_url: https://www.franciscodepaula.com
+preview: Francisco.png
+twitter:
+  creator: "@francisco"
+  site: "@francisco"
+output:
+  postcards::jolla
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+Oi! <span class = "wave"> 👋 </span> Sou analista de dados. Adoro discutir, analisar e visualizar dados e ajudar outras pessoas a fazer o mesmo.
